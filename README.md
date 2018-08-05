@@ -1,6 +1,6 @@
-# Udacity-Carnival
+# VR Apartment
 
-![Alt text](/Screenshot.jpg?raw=true "Screenshot")
+![Alt text](/screenshot.jpg?raw=true "Screenshot")
 
 Unity Editor Version: 2017.4.4f1
 Google VR SDK: GVR SDK for Unity v1.100.1
